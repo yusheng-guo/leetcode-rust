@@ -26,7 +26,7 @@ struct Solution {}
 //     }
 // }
 
-// 快速排序
+// 官方题解
 impl Solution {
     pub fn max_profit(prices: Vec<i32>) -> i32 {
         let mut min_price = std::i32::MAX;
