@@ -6,3 +6,4 @@
 - [移除链表元素](./remove-linked-list-elements/README.md) - [Description](https://leetcode.cn/problems/remove-linked-list-elements/description/)
 - [3 的幂](./power-of-three/README.md) - [Description](https://leetcode.cn/problems/power-of-three/description/)
 - [4 的幂](./power-of-four/README.md) - [Description](https://leetcode.cn/problems/power-of-four/description/)
+- [替换字符可以得到的最晚时间](./latest-time-you-can-obtain-after-replacing-characters/README.md) - [Description](https://leetcode.cn/problems/latest-time-you-can-obtain-after-replacing-characters/description/)
