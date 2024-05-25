@@ -9,3 +9,4 @@
 - [替换字符可以得到的最晚时间](./latest-time-you-can-obtain-after-replacing-characters/README.md) - [Description](https://leetcode.cn/problems/latest-time-you-can-obtain-after-replacing-characters/description/)
 - [各位相加](./add-digits/README.md) - [Description](https://leetcode.cn/problems/add-digits/description/)
 - [快乐数](./happy-number/README.md) - [Description](https://leetcode.cn/problems/happy-number/description/)
+- [丑数](./ugly-number/README.md) - [Description](https://leetcode.cn/problems/ugly-number/description/)
