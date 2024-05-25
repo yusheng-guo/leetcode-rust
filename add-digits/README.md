@@ -7,4 +7,5 @@ https://leetcode.cn/problems/add-digits/description/
 
 ##### 性质
 `x+9` 与 `x` 的数根相同，即一个数加 `9` 后它的数根不变
+
 `a` 的数根 `b=(a-1)%9+1`，即 `mod(a-1, 9)+1`，且 `a` 属于 `N*`
